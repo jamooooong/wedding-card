@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
 import HomePage from "./pages/homePage/HomePage";
 import GuestBookPage from "./pages/guestBookPage/GuestBookPage";
-import LandingPage from "./pages/landingPage/LandingPAge";
+import LandingPage from "./pages/landingPage/LandingPage";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
